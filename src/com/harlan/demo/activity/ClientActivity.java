@@ -19,7 +19,7 @@ import com.harlan.demo.aidl.ICallBack;
 
 public class ClientActivity extends Activity {
 	public static final String TAG = "ClientActivity";
-	public String haoge="jiangnanchun------------>";
+	public String haoge="jiangnanchun--------123---->";
 
 	private static final String BIND_ACTION = "com.harlan.demo.aidl.service";
 
